@@ -1,0 +1,9 @@
+--- Conteúdo de arquivo copy 2.txt ---
+text do arquivo
+
+--- Conteúdo de arquivo copy.txt ---
+text do arquivo
+
+--- Conteúdo de arquivo.txt ---
+text do arquivo
+
